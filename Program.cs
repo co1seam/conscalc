@@ -21,9 +21,9 @@ namespace conscalc
             c = Convert.ToDouble(Console.ReadLine());
 
             // вычисляем значения функции f(x) в точках -10^10, 0, 10^10    
-            fa = a * Math.Pow(-10, 10) * Math.Pow(-10, 10) + b * -10 + c;
-            fb = a * Math.Pow(10, 10) * Math.Pow(10, 10) + b * 10 + c;
-            fc = a * Math.Pow(0, 10) * Math.Pow(0, 10) + b * 0 + c;
+            fa = a * Math.Pow(-10, 10) + b * -10 + c;
+            fb = a * Math.Pow(10, 10)+ b * 10 + c;
+            fc = a * Math.Pow(0, 10) + b * 0 + c;
 
             // Отладка значений функций в точках -10^10, 10^10 и 0
             Console.WriteLine($"Значение функции f(x) в точке -10^10: {fa}");
