@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKU7LSSJ/YmyiYkzbz0CwRanrjuDReUsf2xfw8D8oGLGdVOQ/RTtBRwbMJEGupLa4o7tgeI+39FjX3c66rTrig==",
+  "success": true,
+  "projectFilePath": "/home/kostya/projects/conscalc/conscalc.csproj",
+  "expectedPackageFiles": [
+    "/home/kostya/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

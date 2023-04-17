@@ -1,0 +1,15 @@
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.deps.json
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.runtimeconfig.json
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.dll
+/home/kostya/projects/conscalc/bin/Debug/net7.0/conscalc.pdb
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.csproj.AssemblyReference.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.AssemblyInfoInputs.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.AssemblyInfo.cs
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.csproj.CoreCompileInputs.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.dll
+/home/kostya/projects/conscalc/obj/Debug/net7.0/refint/conscalc.dll
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.pdb
+/home/kostya/projects/conscalc/obj/Debug/net7.0/conscalc.genruntimeconfig.cache
+/home/kostya/projects/conscalc/obj/Debug/net7.0/ref/conscalc.dll
